@@ -1,0 +1,4 @@
+Keras == 2.1.2
+librosa == 0.5.1
+numpy == 1.11.0
+sklearn == 0.0
