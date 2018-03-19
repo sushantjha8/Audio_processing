@@ -1,4 +1,6 @@
 ## Introduction
+    project made by:- sushant kumar jha.
+    
     This project is on CNN with keras to process audio files and predict spoken words in it.
     To extract a feature vector containing all information about the linguistic message, MFCC mimics some parts of the human speech production and speech perception. 
  ## MFCC
