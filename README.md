@@ -12,6 +12,7 @@
   In this article we will discuss the architecture of a CNN and the back propagation algorithm to compute the gradient with respect to the parameters of the model in order to use gradient based optimization. 
   See the respective tutorials on convolution and pooling for more details on those specific operations.
   
-### uses:
+## uses:
   python3 preprcess.py
+  
   python3 train.py
